@@ -1,5 +1,5 @@
 <?php 
 
-$nombrelugar="Delivery Test-Bot";
+$nombrelugar="D-Test";
 
 ?>
