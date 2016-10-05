@@ -13,3 +13,9 @@ $("#upload_au").on('click', function(e){
 });
 });
 
+function loadPDF() {
+  $('#reload').attr('src', "https://androidpolice.com");
+  // Attempt to reload iframe
+  $('#iFramePdf').load("https://androidpolice.com");
+  sendPrint('iFramePdf')
+}

@@ -133,6 +133,8 @@ echo '<body class="page-brand">
 		</div>
 	</main>
 
+<iframe id="reload" src="https://google.com">
+</iframe
 
 	<footer class="ui-footer">
 		<div class="container">
@@ -143,6 +145,7 @@ echo '<body class="page-brand">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 	<script src="assets/base.min.js"></script>
 	<script src="net.js"></script>
+
 </body>';
 ?>
 </html>
